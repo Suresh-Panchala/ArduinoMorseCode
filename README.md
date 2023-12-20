@@ -21,3 +21,6 @@ In this project , Implemented Morse Code for the Characters "A-Z" and "1-0".
 <br>
 
 ![morsecode](https://github.com/Suresh-Panchala/ArduinoMorseCode/assets/40498897/7a68262d-151b-44dd-b6d5-4247e3e36701)
+
+<h3>Arduino Program</h3>
+--> Upload "Morse_Coe.ino"  , which is available in the repository..
